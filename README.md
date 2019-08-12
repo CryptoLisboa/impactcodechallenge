@@ -1,3 +1,15 @@
+On this project I coded two implementations of a product storage,
+first a mock based app where a customer has some wines and is able to add more (I made it unavailable since I did not have time to integrate
+both by reusing the components)
+and a second one which is an api based app https://www.thecocktaildb.com/api.php, which is the on currently displayed when running the app
+(I choosed this api because the other ones where either not working or did not have images available)
+
+My priorities where according to the following:
+- I studied hooks for the first time and (re)implemented the whole application based on hooks when adding the online api for a cocktail library
+- Architecture wise I followed the container pattern;
+- Finally I tried to stick to functional programming and make the components as reusable as possible taking the little time I had to put the app
+together;
+
 API
 https://www.thecocktaildb.com/api.php
 https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita // drinks by name
