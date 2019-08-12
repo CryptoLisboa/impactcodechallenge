@@ -12,6 +12,8 @@ together;
 
 I did use some external library for a couple components and ramda as my main util
 
+By having more time, I would have tried to make the UX better and the UI more appealing
+
 API
 https://www.thecocktaildb.com/api.php
 https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita // drinks by name
