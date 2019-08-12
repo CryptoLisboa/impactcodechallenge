@@ -10,6 +10,8 @@ My priorities where according to the following:
 - Finally I tried to stick to functional programming and make the components as reusable as possible taking the little time I had to put the app
 together;
 
+I did use some external library for a couple components and ramda as my main util
+
 API
 https://www.thecocktaildb.com/api.php
 https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita // drinks by name
