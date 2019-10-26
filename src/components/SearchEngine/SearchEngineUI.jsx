@@ -9,7 +9,7 @@ const config = {
   cssDefault: 'ui input',
   cssFocus: 'ui input focus',
   serchBarLabel: 'Search wine',
-  placeholder: 'Search videos...'
+  placeholder: 'Search drinks or ingredients...'
 }
 
 const getSearchBarCSS = ({ isLoading, focus }) => {
