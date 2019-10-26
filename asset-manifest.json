@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/impactcodechallenge/static/css/main.27f06725.chunk.css",
+    "main.js": "/impactcodechallenge/static/js/main.a032f587.chunk.js",
+    "main.js.map": "/impactcodechallenge/static/js/main.a032f587.chunk.js.map",
+    "runtime~main.js": "/impactcodechallenge/static/js/runtime~main.ad52c5f4.js",
+    "runtime~main.js.map": "/impactcodechallenge/static/js/runtime~main.ad52c5f4.js.map",
+    "static/js/2.ed90b6f6.chunk.js": "/impactcodechallenge/static/js/2.ed90b6f6.chunk.js",
+    "static/js/2.ed90b6f6.chunk.js.map": "/impactcodechallenge/static/js/2.ed90b6f6.chunk.js.map",
+    "index.html": "/impactcodechallenge/index.html",
+    "precache-manifest.ea31180c3025a468f434c6042fee155c.js": "/impactcodechallenge/precache-manifest.ea31180c3025a468f434c6042fee155c.js",
+    "service-worker.js": "/impactcodechallenge/service-worker.js",
+    "static/css/main.27f06725.chunk.css.map": "/impactcodechallenge/static/css/main.27f06725.chunk.css.map"
+  }
+}
