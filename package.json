@@ -1,12 +1,13 @@
 {
   "name": "codechallenge",
+  "homepage": "http://bcfoo-iscteiulpt.github.io/impactcodechallenge",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "ramda": "^0.26.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-modal": "^3.9.1",
+    "react-modal": "^3.11.1",
     "react-scripts": "3.0.1",
     "react-virtual-list": "^2.3.0",
     "react-virtualized": "^9.21.1",
@@ -16,6 +17,8 @@
   },
   "scripts": {
     "start": "react-scripts start ./src/index.jsx",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
